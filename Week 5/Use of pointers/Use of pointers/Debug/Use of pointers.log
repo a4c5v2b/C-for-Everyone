@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\a4c5v\Desktop\Github\C for Everyone\Week 5\Use of pointers\Use of pointers\Source.cpp(25,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 2 has type 'double *'
+  Use of pointers.vcxproj -> C:\Users\a4c5v\Desktop\Github\C for Everyone\Week 5\Use of pointers\Debug\Use of pointers.exe
