@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{364520fe-fa71-4f78-8f02-60633724ac71}</ProjectGuid>
-    <RootNamespace>UseofSImplearraysasparameters</RootNamespace>
+    <ProjectGuid>{89b83270-c58d-41ff-89f2-7bbe2e2de366}</ProjectGuid>
+    <RootNamespace>UseofSimplearraysasparameters</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

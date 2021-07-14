@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Use of SImple arrays as parameters", "Use of SImple arrays as parameters\Use of SImple arrays as parameters.vcxproj", "{364520FE-FA71-4F78-8F02-60633724AC71}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Use of Simple arrays as parameters", "Use of Simple arrays as parameters\Use of Simple arrays as parameters.vcxproj", "{89B83270-C58D-41FF-89F2-7BBE2E2DE366}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,19 +13,19 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{364520FE-FA71-4F78-8F02-60633724AC71}.Debug|x64.ActiveCfg = Debug|x64
-		{364520FE-FA71-4F78-8F02-60633724AC71}.Debug|x64.Build.0 = Debug|x64
-		{364520FE-FA71-4F78-8F02-60633724AC71}.Debug|x86.ActiveCfg = Debug|Win32
-		{364520FE-FA71-4F78-8F02-60633724AC71}.Debug|x86.Build.0 = Debug|Win32
-		{364520FE-FA71-4F78-8F02-60633724AC71}.Release|x64.ActiveCfg = Release|x64
-		{364520FE-FA71-4F78-8F02-60633724AC71}.Release|x64.Build.0 = Release|x64
-		{364520FE-FA71-4F78-8F02-60633724AC71}.Release|x86.ActiveCfg = Release|Win32
-		{364520FE-FA71-4F78-8F02-60633724AC71}.Release|x86.Build.0 = Release|Win32
+		{89B83270-C58D-41FF-89F2-7BBE2E2DE366}.Debug|x64.ActiveCfg = Debug|x64
+		{89B83270-C58D-41FF-89F2-7BBE2E2DE366}.Debug|x64.Build.0 = Debug|x64
+		{89B83270-C58D-41FF-89F2-7BBE2E2DE366}.Debug|x86.ActiveCfg = Debug|Win32
+		{89B83270-C58D-41FF-89F2-7BBE2E2DE366}.Debug|x86.Build.0 = Debug|Win32
+		{89B83270-C58D-41FF-89F2-7BBE2E2DE366}.Release|x64.ActiveCfg = Release|x64
+		{89B83270-C58D-41FF-89F2-7BBE2E2DE366}.Release|x64.Build.0 = Release|x64
+		{89B83270-C58D-41FF-89F2-7BBE2E2DE366}.Release|x86.ActiveCfg = Release|Win32
+		{89B83270-C58D-41FF-89F2-7BBE2E2DE366}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3FBE23CD-D157-4194-9892-6779A54C5DD8}
+		SolutionGuid = {87DE04A6-B1F9-411B-9E40-F97A494A5236}
 	EndGlobalSection
 EndGlobal

@@ -3,7 +3,7 @@
 
 # include <stdio.h>
 
-void print_array(int how_many, int data[], char* str)
+void print_array(int how_many, int data[], const char* str)
 {
 
 	int i;
@@ -35,16 +35,13 @@ void merge(int a[], int b[], int c[], int how_many)
 void mergesort(int key[], int how_many) /* a power of 2 */
 {
 	int j, k;
-	int w[8];
-
-	for (k = 1; k < how_many; k *= 2)
+	int *w = new int[how_many];
+	for (k = 1; k < how_many; k *= 2) {
 		for (j = 0; j < how_many - k; j += 2 * k)
 			merge(key + j, key + j + k, w + j, k);
-	for (j = 0; j < how_many; j++)
-		key[j] = w[j];
-
-
-
+		for (j = 0; j < how_many; j++)
+			key[j] = w[j];
+		}
 }
 
 
