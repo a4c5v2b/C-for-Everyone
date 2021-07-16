@@ -1,3 +1,4 @@
 ﻿  Source.cpp
-C:\Users\a4c5v\Desktop\Github\C for Everyone\Course 2_Structured Programming\Week 1\Use of Macro's\Use of Macro's\Source.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Use of Macro's.vcxproj -> C:\Users\a4c5v\Desktop\Github\C for Everyone\Course 2_Structured Programming\Week 1\Use of Macro's\Debug\Use of Macro's.exe
+C:\Users\a4c5v\Desktop\Github\C for Everyone\Course 2\Week 1\Use of Macro's\Use of Macro's\Source.cpp(39,12): warning C4101: 'c3': unreferenced local variable
+C:\Users\a4c5v\Desktop\Github\C for Everyone\Course 2\Week 1\Use of Macro's\Use of Macro's\Source.cpp(39,8): warning C4101: 'c2': unreferenced local variable
+  Use of Macro's.vcxproj -> C:\Users\a4c5v\Desktop\Github\C for Everyone\Course 2\Week 1\Use of Macro's\Debug\Use of Macro's.exe
