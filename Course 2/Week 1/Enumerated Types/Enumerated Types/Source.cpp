@@ -15,7 +15,7 @@ void print_day(day d)
 	case tue: printf(" tuesday "); break;
 	case wed: printf(" wednesday "); break;
 	case thu: printf(" thursday "); break;
-	case fri: printf(" friday "); break;
+	case fri: printf(" friday "); printf(d); break;
 	case sat: printf(" saturday "); break;
 	default: printf("%d is an error", d);
 	}

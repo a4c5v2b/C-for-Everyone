@@ -1,5 +1,5 @@
 /* C for Everyone: Structured Programming
-	Week 1: Week 2 Quiz */
+	Week 2: Week 2 Quiz */
 
 
 #include <stdio.h>
