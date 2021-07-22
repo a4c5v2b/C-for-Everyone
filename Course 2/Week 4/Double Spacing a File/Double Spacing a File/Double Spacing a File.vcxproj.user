@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>"C:\Users\a4c5v\Desktop\Github\C for Everyone\Course 2\Week 4\Double Spacing a File\myhw.txt";"C:\Users\a4c5v\Desktop\Github\C for Everyone\Course 2\Week 4\Double Spacing a File\myhw2.txt"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
