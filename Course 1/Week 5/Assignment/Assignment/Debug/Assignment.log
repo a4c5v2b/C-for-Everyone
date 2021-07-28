@@ -1,10 +1,2 @@
 ﻿  Source.cpp
-D:\Codework\C-for-Everyone\Week 5\Assignment\Assignment\Source.cpp(27,48): error C2057: expected constant expression
-D:\Codework\C-for-Everyone\Week 5\Assignment\Assignment\Source.cpp(27,48): error C2466: cannot allocate an array of constant size 0
-D:\Codework\C-for-Everyone\Week 5\Assignment\Assignment\Source.cpp(27,56): error C2057: expected constant expression
-D:\Codework\C-for-Everyone\Week 5\Assignment\Assignment\Source.cpp(27,56): error C2466: cannot allocate an array of constant size 0
-D:\Codework\C-for-Everyone\Week 5\Assignment\Assignment\Source.cpp(27,56): error C2087: 'mat': missing subscript
-D:\Codework\C-for-Everyone\Week 5\Assignment\Assignment\Source.cpp(91,79): warning C4047: 'function': 'int (*)[1]' differs in levels of indirection from 'int **'
-D:\Codework\C-for-Everyone\Week 5\Assignment\Assignment\Source.cpp(91,76): warning C4024: 'average': different types for formal and actual parameter 3
-D:\Codework\C-for-Everyone\Week 5\Assignment\Assignment\Source.cpp(67,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\Codework\C-for-Everyone\Week 5\Assignment\Assignment\Source.cpp(77,18): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Assignment.vcxproj -> D:\Codework\C-for-Everyone\Course 1\Week 5\Assignment\Debug\Assignment.exe

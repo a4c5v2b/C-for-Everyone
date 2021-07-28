@@ -52,7 +52,8 @@ int main()
 	FILE* ifp;
 	int data[MAX_HW] = { 100,0 };
 
-	ifp = fopen("C:/Users/a4c5v/Desktop/Github/C for Everyone/Course 2/Week 4/Basic File IO code/myhw.txt", "r");
+	ifp = fopen("D:/Codework/C-for-Everyone/Course 2/Week 4/Basic File IO code/myhw.txt", "r");
+	//ifp = fopen("C:/Users/a4c5v/Desktop/Github/C for Everyone/Course 2/Week 4/Basic File IO code/myhw.txt", "r");
 	read_data(ifp, data, &sz);
 	printf("my %d homework scores are:", sz);
 	print_data(data, sz);

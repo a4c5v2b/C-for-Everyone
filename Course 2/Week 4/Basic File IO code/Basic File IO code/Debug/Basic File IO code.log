@@ -1,1 +1,3 @@
-﻿  Basic File IO code.vcxproj -> C:\Users\a4c5v\Desktop\Github\C for Everyone\Course 2\Week 4\Basic File IO code\Debug\Basic File IO code.exe
+﻿  Source.cpp
+D:\Codework\C-for-Everyone\Course 2\Week 4\Basic File IO code\Basic File IO code\Source.cpp(51,6): warning C4101: 'i': unreferenced local variable
+  Basic File IO code.vcxproj -> D:\Codework\C-for-Everyone\Course 2\Week 4\Basic File IO code\Debug\Basic File IO code.exe
